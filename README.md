@@ -29,7 +29,7 @@
 
 ---
 
-## ![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQEK11EA068Puw/feedshare-shrink_1280/feedshare-shrink_1280/0/1729098881490?e=1732147200&v=beta&t=70ya4q0E89hGnkgIBb14UqgwbFhJjwHz6n7DX36spZs "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQEK11EA068Puw/feedshare-shrink_1280/feedshare-shrink_1280/0/1729098881490?e=1737590400&v=beta&t=PydlpfdSmPVm8KZR7ZU8iGmo4LN2SHxozRfKbAAYXOE "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals)
 
